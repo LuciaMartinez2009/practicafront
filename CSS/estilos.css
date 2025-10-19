@@ -1,0 +1,33 @@
+body  {
+background: #54305F;
+         color: #D3D2D5;
+
+
+
+}
+.Masaclasica { color : #9526AB
+}
+
+
+
+
+
+
+.relleno { color: #CE79E2; }
+
+.titulo {
+  font-size: 3rem; /* Grande y proporcional al diseño base */
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-decoration: underline;
+}
+.ingre {
+   font-size: 48px;
+ font-style: italic;
+  color: #C48EC7;
+  img {
+    width: 300px;
+    height: 200px;
+}
